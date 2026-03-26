@@ -1,6 +1,6 @@
 {
   "name": "@goblink/connect",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Universal multi-chain wallet connection SDK — 9 blockchain ecosystems, one API",
   "license": "MIT",
   "type": "module",
